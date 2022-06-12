@@ -55,5 +55,5 @@ export const CustomBackgroundColorCustom = Template.bind({});
 CustomBackgroundColorCustom.args = {
   size: "normal",
   customFontColor: "green",
-  backgroundColor: "white",
+  backgroundColor: "red",
 };
