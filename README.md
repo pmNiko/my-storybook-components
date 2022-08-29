@@ -1,46 +1,43 @@
-# Getting Started with Create React App
+# Storybook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Municipalidad de San Martin de los Andes
 
-## Available Scripts
+<p align="center" width="300">
+   <img align="center" width="200" src="https://i.ibb.co/V3tMCZn/municipio.png" />
+</p>
 
-In the project directory, you can run:
+<h5>_____Objectivo_____</h5>
 
-### `npm start`
+    Storybook es un marco personalizable para la creación de componentes reutilizables.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> ---
+>
+> ##### instalación y uso del mismo
+>
+> En el proyecto a utilizar debemos hacer la instalación como una dependencia. Ver documentación.
+>
+> - [storybook](http://10.1.0.49:4873/-/web/detail/my-storybook-components)
+>
+> Una vez inyectado como una dependencia del proyecto ya podemos hacer uso de los
+> componentes como cualquier otra plantilla de componentes.
+>
+> ---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br/>
 
-### `npm test`
+Se pueden ver los componentes en el siguiente enlace
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [storybook-page](https://10.1.0.49/storybook/?path=/story/example-introduction--page)
 
-### `npm run build`
+<br/>
+### 📝 App Storybook-components
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Sitios relacionados
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [verdaccio](http://10.1.0.49:4873/-/web/detail/my-storybook-components)
+- [deploy](https://10.1.0.49/storybook/?path=/story/example-introduction--page)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Desarroladores
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Esteban Menendez](https://github.com/ejmenendez)
+- [Martín Nicolás Paneblanco](https://github.com/pmNiko)
